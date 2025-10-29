@@ -1,4 +1,5 @@
 #The Influence of AI Growth on the Unemployment Rate of Graphic Designers
+
 #Project Overview
 This project investigates the relationship between the rise of AI technologies (such as Midjourney, DALL·E, Canva AI, ChatGPT) and the employment trends of graphic designers. By analyzing data from the past decade (2015–2024), this project aims to uncover whether the growing popularity of AI-driven creative tools correlates with a decline in employment opportunities or job demand for graphic designers.
 The key research questions addressed in this project include:
