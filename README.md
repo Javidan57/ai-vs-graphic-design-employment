@@ -1,4 +1,4 @@
-# ai-vs-graphic-design-employment
+# AI vs Graphic-Design employment
 The Influence of AI Growth on the Unemployment Rate of Graphic Designers
 Project Overview
 
